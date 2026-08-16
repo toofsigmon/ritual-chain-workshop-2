@@ -1,3 +1,7 @@
+### Personal Completion Record
+Ritual Academy Bootcamp #2 finished.
+Reviewed autonomous resolution and executor selection.
+Waiting for mainnet.
 # Ritual Predict
 
 A self-resolving binary prediction market on [Ritual Chain](https://docs.ritualfoundation.org).
